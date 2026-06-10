@@ -1,31 +1,183 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#B0E0E6=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=HEY,+My+name+is+Lucas+Coutinho;I'm+19+years+old;I'm+from+Brazil;I'm+studying+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<h1 align="center">Lucas Coutinho</h1>
 
-<br/>
+<h3 align="center">
+Full Stack Developer • React • React Native • Node.js • Product Builder
+</h3>
 
-![Coutinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCoutinho7&show_icons=true&theme=radical)
+<p align="center">
+Building real products, scalable platforms and mobile experiences.
+</p>
 
-## Technologies I use on a daily basis
-<div style="display: inline_block">
-    <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div><br/>
+---
 
+## About Me
 
-Passionate about games and technology, fascinated with solving problems and creating solutions to transform people's lives.
+I'm a Brazilian Full Stack Developer passionate about building products that solve real business problems.
 
+Currently working on web and mobile applications, participating in the entire software lifecycle:
 
-<br/>
-<div align="center"> 
-<a href="https://www.instagram.com/coutinhx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px"</a>
-<a href = "mailto:lucascoutinho672@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucasffcoutinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://www.twitch.tv/coutinhoxd" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+- Product Discovery
+- Requirements Gathering
+- UI/UX Prototyping
+- Front-end Development
+- Back-end Development
+- Database Modeling
+- Cloud Deployment
+- System Architecture
 
-<br/>
+My focus is creating scalable solutions with great user experience and strong business impact.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#B0E0E6&height=120&section=footer"/>
+---
+
+## Current Work
+
+### 🚀 Welucci
+
+Building **WeHub**, a platform that is transforming the wedding industry.
+
+Features include:
+
+- Wedding Invitation Builder
+- Website Builder
+- Guest Management
+- Gift Registry
+- Video Editor
+- Custom URL Generation
+- Internal Operational Tools
+
+Tech Stack:
+
+```txt
+Node.js
+Express
+PostgreSQL
+Supabase
+Bootstrap
+JavaScript
+HTML
+CSS
+SEO Optimization
+```
+
+### 🚀 FixBit Sistemas
+
+Working as a Full Stack Developer building:
+
+- Healthcare Platforms
+- Real Estate Platforms
+- SaaS Applications
+- Mobile Applications
+- Administrative Systems
+
+---
+
+## Featured Projects
+
+### 🩸 SPYWELL
+
+Healthcare platform that receives glucose data through Bluetooth devices and provides real-time monitoring.
+
+Tech:
+
+```txt
+React Native
+Firebase
+Node.js
+Bluetooth Classic
+Firestore
+TypeScript
+```
+
+### 🏢 Real Estate Platform
+
+Complete management platform for real estate brokers and agencies.
+
+### ✂️ Barber SaaS
+
+Scheduling, customer management and operational dashboards.
+
+### 💍 WeHub
+
+Wedding ecosystem platform focused on customization and user experience.
+
+---
+
+## Tech Stack
+
+### Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,bootstrap,tailwind" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+React Native
+
+### Back-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+</p>
+
+Supabase • Firestore
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="mailto:lcoutinhodev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+> "I don't just build software. I build products that people actually use."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
